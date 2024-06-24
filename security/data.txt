@@ -1,0 +1,5 @@
+doc_rec,#Daram Summy,#Dengue,#pendol,#Pasindu sampath
+doc_rec,#Kasun silva,#pain,#pendol,#Pasindu sampath
+lab_rec,#Daram Summy,#Blood pressure = 111,#Supun surath
+doc_rec,#Chatura,#Headeque,#tablet1,#Pasindu sampath
+lab_rec,#Chatura,#temperature high,#Supun surath

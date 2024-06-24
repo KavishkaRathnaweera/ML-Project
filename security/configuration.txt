@@ -1,0 +1,7 @@
+admin,#21232f297a57a5a743894a0e4a801fc3,#staff,#admin
+Daram Summy,#96e79218965eb72c92a549dd5a330112,#patient,#patientP
+Pasindu sampath,#96e79218965eb72c92a549dd5a330112,#staff,#doctor
+Gayani rathnayake,#96e79218965eb72c92a549dd5a330112,#staff,#nurse
+Supun surath,#96e79218965eb72c92a549dd5a330112,#staff,#lab_tester
+Wasantha jayalath,#96e79218965eb72c92a549dd5a330112,#patient,#patient
+Aron finch,#96e79218965eb72c92a549dd5a330112,#staff,#doctor
