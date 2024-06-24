@@ -1,0 +1,1 @@
+(7,Left), (5,Up), (11,Up), (8,Right), (6,Down)
